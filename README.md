@@ -2,7 +2,7 @@
  app_resize_img
 
 # bugs :
-    - caractère qui ne sont pas des chiffres dans l'entrée largeur
+    - caractère qui ne sont pas des chiffres dans l'entrée largeur ou/et hauteur
     - pas d'image pour enregistrer
 
 # Application réalisé à partir des sites : 
